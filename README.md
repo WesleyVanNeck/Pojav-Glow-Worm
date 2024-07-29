@@ -6,7 +6,7 @@
 
 * <a href="/README-ZH_CN.md">中文</a>
 
-* From [Boardwalk](https://github.com/zhuowei/Boardwalk)'s ashes here comes PojavLauncher!
+* From [Boardwalk](https://github.com/zhuowei/Boardwalk)'s ashes here comes PojavLauncher! 
 
 * PojavLauncher is a launcher that allows you to play Minecraft: Java Edition on your Android device!
 
