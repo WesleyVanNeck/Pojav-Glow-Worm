@@ -4,7 +4,7 @@
 
 [![Android CI](https://github.com/PojavLauncherTeam/PojavLauncher/workflows/Android%20CI/badge.svg)](https://github.com/Vera-Firefly/Pojav-Glow-Worm/actions)
 
-* <a href="/README-ZH_CN.md">中文</a>
+* <a href="/README-ZH_CN.md">中文</a> 
 
 * From [Boardwalk](https://github.com/zhuowei/Boardwalk)'s ashes here comes PojavLauncher!
 
